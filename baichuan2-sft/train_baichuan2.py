@@ -5,6 +5,9 @@
 @Date   : 2023/10/13 13:00
 @Usage  : TBD
 """
+# import os
+# LOCAL_RANK = int(os.environ['LOCAL_RANK'])
+
 import argparse
 import random
 import numpy as np
